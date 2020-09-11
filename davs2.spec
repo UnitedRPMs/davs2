@@ -8,7 +8,7 @@ Summary:    An open-source decoder of AVS2-P2/IEEE1857.4 video coding standard
 URL:        https://github.com/pkuvcl/davs2
 License:    GPLv2
 
-Source:	    https://github.com/pkuvcl/davs2/archive/%{commit}.tar.gz#/%{name}-%{shortcommit}.tar.gz
+Source:     https://github.com/pkuvcl/davs2/archive/%{commit}.tar.gz#/%{name}-%{shortcommit}.tar.gz
 
 BuildRequires:  gcc-c++
 BuildRequires:  nasm >= 2.13
